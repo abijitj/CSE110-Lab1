@@ -1,2 +1,1 @@
-# CSE110-Lab1
-CSE110 Lab 1
+Site link: [Here](https://abijitj.github.io/CSE110-Lab1/index)
